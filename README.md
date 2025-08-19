@@ -28,4 +28,4 @@
 
 ---
 
-✉️ Entre em contato: [LinkedIn](www.linkedin.com/in/iagozandone) | [Email](iagozandone@gmail.com)
+✉️ Entre em contato: [LinkedIn](wwww.linkedin.com/in/iagozandone) | [Email](iagozandone@gmail.com)
