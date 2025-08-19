@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Iago!
 
-<!--
-**iagozandone/IagoZandone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Java & Full Stack em construção.  
+💻 Apaixonado por criar sistemas que resolvem problemas reais.  
+📚 Sempre aprendendo: Java | Spring Boot | React | MySQL | AWS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos em destaque
+- 🛒 [E-commerce de Roupas](link) – CRUD completo em Java com POO, Collections e Exceptions.
+- 📦 [Sistema de Delivery](link) – API REST em Spring Boot + MySQL.
+- ✂️ [Agenda de Serviços para Salão](link) – Agendamentos, relatórios e autenticação.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-green?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IagoZandone&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoZandone&layout=compact&theme=radical)
+
+---
+
+✉️ Entre em contato: [LinkedIn](https://linkedin.com/in/seu-link) | [Email](mailto:seuemail@gmail.com)
