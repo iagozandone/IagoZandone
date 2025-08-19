@@ -6,13 +6,6 @@
 
 ---
 
-## 🌟 Projetos em destaque
-- 🛒 [E-commerce de Roupas](https://github.com/IagoZandone/ecommerce-roupas) – CRUD completo em Java com POO, Collections e Exceptions.
-- 📦 [Sistema de Delivery](https://github.com/IagoZandone/sistema-delivery) – API REST em Spring Boot + MySQL.
-- ✂️ [Agenda de Serviços para Salão](https://github.com/IagoZandone/agenda-servicos) – Agendamentos, relatórios e autenticação.
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/SpringBoot-green?logo=spring&logoColor=white)
