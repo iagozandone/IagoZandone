@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 Projetos em destaque
-- 🛒 [E-commerce de Roupas](link) – CRUD completo em Java com POO, Collections e Exceptions.
-- 📦 [Sistema de Delivery](link) – API REST em Spring Boot + MySQL.
-- ✂️ [Agenda de Serviços para Salão](link) – Agendamentos, relatórios e autenticação.
+- 🛒 [E-commerce de Roupas](https://github.com/IagoZandone/ecommerce-roupas) – CRUD completo em Java com POO, Collections e Exceptions.
+- 📦 [Sistema de Delivery](https://github.com/IagoZandone/sistema-delivery) – API REST em Spring Boot + MySQL.
+- ✂️ [Agenda de Serviços para Salão](https://github.com/IagoZandone/agenda-servicos) – Agendamentos, relatórios e autenticação.
 
 ---
 
@@ -28,4 +28,6 @@
 
 ---
 
-✉️ Entre em contato: [LinkedIn](wwww.linkedin.com/in/iagozandone) | [Email](iagozandone@gmail.com)
+## ✉️ Entre em contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagozandone)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:iagozandone@gmail.com)
